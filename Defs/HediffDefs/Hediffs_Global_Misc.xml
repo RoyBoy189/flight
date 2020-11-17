@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <HediffDef>
+    <defName>AF_NoBulletDamage</defName>
+    <label>no bullet damage</label>
+    <description>No bullet damage, AOE weapons still does damages</description>
+  </HediffDef>
+</Defs>
